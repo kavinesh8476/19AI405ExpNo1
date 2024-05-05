@@ -221,4 +221,5 @@ if __name__ == "__main__":
 <h3>OUTPUT:</h3>
 
 ![image](https://github.com/kavinesh8476/19AI405ExpNo1/assets/118466561/099a9f9d-6d5b-49ca-9dc8-4259c73eb4f8)
-
+## RESULT:
+Thus the Devloping AI agent with PEAS Description was implemented using python programming.
